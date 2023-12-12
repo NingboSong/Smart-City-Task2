@@ -1,0 +1,22 @@
+12:55:36 [App     ] OpenMVS x64 v2.2.0
+12:55:36 [App     ] Build date: Dec 12 2023, 11:55:46
+12:55:36 [App     ] CPU: 13th Gen Intel(R) Core(TM) i7-13700KF (24 cores)
+12:55:36 [App     ] RAM: 31.17GB Physical Memory 61.04GB Virtual Memory
+12:55:36 [App     ] OS: Linux 6.2.0-37-generic (x86_64)
+12:55:36 [App     ] Disk: 350.74GB (374.42GB) space
+12:55:36 [App     ] SSE & AVX compatible CPU & OS detected
+12:55:36 [App     ] Command line: TextureMesh scene_dense_mesh_refine.mvs
+12:55:36 [App     ] Scene loaded (22ms):
+	11 images (11 calibrated) with a total of 63.22 MPixels (5.75 MPixels/image)
+	0 points, 116510 vertices, 231836 faces
+12:55:39 [App     ] Assigning the best view to each face completed: 231836 faces (3s20ms)
+12:55:40 [App     ] Generating texture atlas and image completed: 1197 patches, 4096 image size (1s271ms)
+12:55:40 [App     ] Mesh texturing completed: 116510 vertices, 231836 faces (4s297ms)
+12:55:41 [App     ] Scene saved (996ms):
+	11 images (11 calibrated)
+	0 points, 116510 vertices, 231836 faces
+12:55:43 [App     ] Mesh saved: 116510 vertices, 231836 faces (1s708ms)
+12:55:43 [App     ] MEMORYINFO: {
+12:55:43 [App     ] 	VmPeak:	 6040672 kB
+12:55:43 [App     ] 	VmSize:	 3977840 kB
+12:55:43 [App     ] } ENDINFO
